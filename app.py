@@ -6,8 +6,6 @@ import os
 import zipfile
 import stat
 
-
-
 print("Warning: This program gives executable permissions to any executable files such as .sh and .py - If you dont want this remove the '# Set executable permissions on any executable files' part of this file.")
 
 # Variables
